@@ -1,0 +1,51 @@
+question,answer
+What is AI?,Artificial Intelligence is the simulation of human intelligence in machines.
+What is Machine Learning?,Machine Learning is a subset of AI that learns patterns from data.
+What is Deep Learning?,Deep Learning uses neural networks with multiple layers to learn complex patterns.
+What is NLP?,Natural Language Processing enables computers to understand human language.
+What is Computer Vision?,Computer Vision enables machines to interpret images and videos.
+What is Python?,Python is a high-level programming language widely used in AI and data science.
+What is Java?,Java is an object-oriented programming language used for enterprise applications.
+What is C++?,C++ is a powerful programming language used in system and application development.
+What is Programming?,Programming is the process of writing instructions for computers.
+What is an Algorithm?,An algorithm is a step-by-step procedure to solve a problem.
+What is Data Structure?,A data structure organizes and stores data efficiently.
+What is Array?,An array is a collection of elements stored in contiguous memory locations.
+What is Linked List?,A linked list is a linear data structure where nodes are connected using pointers.
+What is Stack?,A stack follows the Last In First Out principle.
+What is Queue?,A queue follows the First In First Out principle.
+What is Tree?,A tree is a hierarchical data structure consisting of nodes.
+What is Graph?,A graph is a collection of nodes connected by edges.
+What is BFS?,Breadth First Search explores nodes level by level.
+What is DFS?,Depth First Search explores nodes as deep as possible before backtracking.
+What is Sorting?,Sorting arranges data in a particular order.
+What is Searching?,Searching is the process of finding a specific element in data.
+What is DBMS?,DBMS stands for Database Management System.
+What is SQL?,SQL is a language used to manage relational databases.
+What is Primary Key?,A primary key uniquely identifies each record in a table.
+What is Foreign Key?,A foreign key establishes a relationship between two tables.
+What is Normalization?,Normalization reduces redundancy in databases.
+What is Operating System?,An operating system manages hardware and software resources.
+What is Process?,A process is a program in execution.
+What is Thread?,A thread is the smallest unit of execution within a process.
+What is Deadlock?,Deadlock occurs when processes wait indefinitely for resources.
+What is CPU Scheduling?,CPU scheduling determines which process gets CPU time.
+What is Computer Network?,A computer network connects devices for communication.
+What is IP Address?,An IP address uniquely identifies a device on a network.
+What is TCP?,TCP ensures reliable communication between devices.
+What is UDP?,UDP provides fast but unreliable communication.
+What is HTTP?,HTTP is the protocol used for web communication.
+What is HTTPS?,HTTPS is a secure version of HTTP.
+What is Cloud Computing?,Cloud computing provides computing services over the internet.
+What is Cyber Security?,Cyber security protects systems and data from attacks.
+What is Encryption?,Encryption converts data into a secure format.
+What is VLSI?,VLSI stands for Very Large Scale Integration.
+What is FPGA?,FPGA is a programmable integrated circuit.
+What is Verilog?,Verilog is a hardware description language.
+What is Embedded System?,An embedded system performs dedicated functions within a larger system.
+What is RISC-V?,RISC-V is an open-source instruction set architecture.
+What is Compiler?,A compiler translates source code into machine code.
+What is Interpreter?,An interpreter executes code line by line.
+What is API?,API allows communication between different software applications.
+What is Git?,Git is a version control system.
+What is GitHub?,GitHub is a platform for hosting Git repositories.
